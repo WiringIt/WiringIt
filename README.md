@@ -4,7 +4,7 @@
 ![Banner](https://cdn.britannica.com/57/181857-050-972A4F96/Artist-rendering-matter-black-hole.jpg)
 
 ## 🌟 About Me
-- 💻 **Software Developer / ML Enthusiast **
+- 💻 **Software Developer / ML Enthusiast / Quantum Computing Evangelist**
 - 🎯 Passionate about building impactful projects and solving problems.
 - 📚 Currently learning: **[DL, NLP, React]**
 - 💡 I’m open to collaborating on **[ML and Web Dev related projects]**
