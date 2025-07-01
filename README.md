@@ -1,53 +1,47 @@
-# Hi there! 👋 I'm Samriddha!  
+<h1 align="center">Hi 👋, I'm WiringIt</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Programmer+%7C+Problem+Solver+%7C+Builder" alt="Typing SVG" />
+</p>
 
-<!-- Optional banner -->
-![Banner](https://cdn.britannica.com/57/181857-050-972A4F96/Artist-rendering-matter-black-hole.jpg)
-
-## 🌟 About Me
-- 💻 **Software Developer / ML Enthusiast / Quantum Computing Evangelist**
-- 🎯 Passionate about building impactful projects and solving problems.
-- 📚 Currently learning: **[DL, NLP, React]**
-- 💡 I’m open to collaborating on **[ML and Web Dev related projects]**
-
----
-
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+<p align="center">
+  🔭 Currently building: <strong>ML projects, CP skills, and real-world apps</strong><br>
+  📘 Pursuing: B.Tech in Computer Science @ NIT Durgapur<br>
+  🧠 Learning: Machine Learning, Competitive Programming, and System Design<br>
+  🚀 Aspiring: ML Engineer + Startup Builder<br>
+  ✍️ Passionate about: Poetry and Creativity<br>
+</p>
 
 ---
 
-## 🌟 My Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WiringIt&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+### 🧰 Languages & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,git,github,vscode,linux,bash,figma" />
+</p>
 
 ---
 
-## 🚀 Projects
-### 🔹 [Chatlytic](https://github.com/WiringIt/Chatlytic)
-- Brief description: **[Provides a Fun analysis of Whatsapp chats]**
-- Tech stack: **[Pandas, Seaborn, Matplotlib, Streamlit]**
+### 📈 GitHub Stats
 
-### 🔹 [CineIntellect](https://github.com/WiringIt/CineIntellect)
-- Brief description: **[Contemt based recommender system]**
-- Tech stack: **[Pandas, pillow, NLTK, streamlit]**
-
----
-
-## 📖 Blogs
-<!-- - ✍️ [Blog Title 1](https://link-to-blog1.com) -->
-<!-- - ✍️ [Blog Title 2](https://link-to-blog2.com)-->
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=WiringIt&show_icons=true&theme=radical" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=WiringIt&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiringIt&layout=compact&theme=radical" />
+</p>
 
 ---
 
-## 🤝 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/samriddha-halder-52685627a/)
-<!-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourprofile) -->
-<!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-orange?logo=firefox&logoColor=white)](https://yourwebsite.com) -->
+### 📫 Connect with me
+
+<p>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yourlinkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+</p>
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=green)
+> “Build stuff. Break stuff. Learn fast. Repeat.” 🚀
+
