@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm WiringIt</h1>
+<h1 align="center">Hi 👋, I'm Samriddha Halder</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Programmer+%7C+Problem+Solver+%7C+Builder" alt="Typing SVG" />
 </p>
