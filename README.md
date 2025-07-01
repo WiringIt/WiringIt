@@ -1,39 +1,56 @@
-# 👩‍💻 About Me
 
-![A cute little girl coding on her laptop](https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=500&q=80)
 
----
 
-**Samriddha Halder**  
-3rd year CSE undergrad at NIT Durgapur  
-🌟 Currently learning ML algorithms & a competitive programming enthusiast
+<h1 align="center">Hi 👋, I'm Samriddha Halder</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Programmer+%7C+Problem+Solver+%7C+Builder" alt="Typing SVG" />
+</p>
 
----
-
-## 💻 Tech Stack
-
-- Python
-- C++
-- Streamlit
-- HTML, CSS, JavaScript
+<p align="center">
+  🔭 Currently building: <strong>ML projects, CP skills, and real-world apps</strong><br>
+  📘 Pursuing: B.Tech in Computer Science @ NIT Durgapur<br>
+  🧠 Learning: Machine Learning, Competitive Programming, and System Design<br>
+  🚀 Aspiring: ML Engineer + Startup Builder<br>
+  ✍️ Passionate about: Poetry and Creativity<br>
+</p>
 
 ---
 
-## 🛠️ Projects
+### 🧰 Languages & Tools
 
-- **Chatlytic**
-- Building tools with real impact
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,python,vscode" />
+</p>
 
----
-
-## ✍️ Fun Fact
-
-I'm a poet!  
-Currently working on: **Vibe** – coding a poet assistant tool
 
 ---
 
-## 📫 Connect with Me
+### 📈 GitHub Stats
 
-[LinkedIn](https://www.linkedin.com/in/samriddha-halder-52685627a/)
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=WiringIt&show_icons=true&theme=radical" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=WiringIt&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiringIt&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 📫 Connect with me
+
+
+<p>
+  <a href="mailto:samriddhahaldervis68@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/samriddha-halder-52685627a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+
+---
+
+> “Build stuff. Break stuff. Learn fast. Repeat.” 🚀
 
